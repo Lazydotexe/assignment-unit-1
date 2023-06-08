@@ -3,16 +3,32 @@ body {
     background-color: bisque;
 }
 /* Make the header and footer a different color from the background */
+header {
+    color: blue;
+}
 
+footer {
+    color: azure;
+}
 /* Align the h1 containing your name in the center of the header*/
-
+h1 {
+    text-align: center;
+}
 /* Make your p tag a different color and italic */
-
+p {
+    color: red;
+}
 /* Put a border around your image */
+img {
+    width: 200px;
+    height: 200px;
+    border: 2px;
+}
 
 /* Change the font-family of your list */
-
-.Kitty {
-    width: 300px;
-    height: 300px;
+li {
+    font-family: Gill Sans;
 }
+
+
+
