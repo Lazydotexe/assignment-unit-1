@@ -1,5 +1,7 @@
 /* Give your page a fun background color */
-
+body {
+    background-color: bisque;
+}
 /* Make the header and footer a different color from the background */
 
 /* Align the h1 containing your name in the center of the header*/
@@ -9,3 +11,8 @@
 /* Put a border around your image */
 
 /* Change the font-family of your list */
+
+.Kitty {
+    width: 300px;
+    height: 300px;
+}
