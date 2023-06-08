@@ -22,8 +22,11 @@ p {
 img {
     width: 200px;
     height: 200px;
-    border: 2px;
+    border: 2px solid black;
+    
 }
+
+
 
 /* Change the font-family of your list */
 li {
@@ -31,4 +34,18 @@ li {
 }
 
 
+.cat-photo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  
 
+  .label {
+    border: 2px solid black;
+    width: 1000px;
+    margin: 20px auto;
+    padding: 0 7px;
+    background-color: azure;
+  }
