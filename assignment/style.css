@@ -42,9 +42,10 @@ li {
   }
   
 
-  .label {
+  .letter {
     border: 2px solid black;
-    width: 1000px;
+    width: 600px;
+    height: 650px;
     margin: 20px auto;
     padding: 0 7px;
     background-color: azure;
