@@ -11,7 +11,7 @@ footer {
     color: azure;
     border: 2px solid black;
     text-align: center;
-    background-color: cadetblue;
+    background-color: cadetblue;    
 }
 /* Align the h1 containing your name in the center of the header*/
 h1 {
@@ -22,7 +22,7 @@ h1 {
 /* Make your p tag a different color and italic */
 p {
     color: blueviolet;
-    
+    font-style: italic;
     
 }
 /* Put a border around your image */
