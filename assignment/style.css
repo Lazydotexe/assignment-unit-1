@@ -9,6 +9,9 @@ header {
 
 footer {
     color: azure;
+    border: 2px solid black;
+    text-align: center;
+    background-color: cadetblue;
 }
 /* Align the h1 containing your name in the center of the header*/
 h1 {
@@ -54,16 +57,7 @@ li {
     background-image: url("https://img.favpng.com/25/16/10/a-memory-of-light-the-great-hunt-the-eye-of-the-world-the-wheel-of-time-the-dragon-reborn-png-favpng-SCADwCqqPDQHTip9F79TLSgBv_t.jpg");
 
   }
- footer {
-    border: 2px solid black;
-    text-align: center;
-    background-color: cadetblue;
-   
-    
-    
-    
-    ;
- }
+
 
 
 ul {
